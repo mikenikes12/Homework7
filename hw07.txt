@@ -1,2 +1,4 @@
+HELLO THERE CSCI-C151
 This is homework 7!
 This is very cool!
+BYE BYE
