@@ -1,4 +1,4 @@
-HELLO THERE CSCI-C151
+HELLO THERE ENG-W131
 This is homework 7!
 This is very cool!
 BYE BYE
