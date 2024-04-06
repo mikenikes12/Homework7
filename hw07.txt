@@ -1,3 +1,4 @@
+HELLO THERE
 This is homework 7!
 This is very cool!
 BYE BYE
