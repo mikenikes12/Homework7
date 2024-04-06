@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-HELLO THERE CSCI-C151
-=======
-HELLO THERE ENG-W131
->>>>>>> a2b0fb077d1bf13b08527d9087ce37909eceef97
 This is homework 7!
 This is very cool!
-BYE BYE
